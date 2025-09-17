@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "juego_ritmico", "juego_ritmico\juego_ritmico.csproj", "{D16DEEDE-802E-4B78-8993-A24A084C2692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16DEEDE-802E-4B78-8993-A24A084C2692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16DEEDE-802E-4B78-8993-A24A084C2692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16DEEDE-802E-4B78-8993-A24A084C2692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16DEEDE-802E-4B78-8993-A24A084C2692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E92B01-DCB8-4EA1-A8E6-FD37C56593AA}
+	EndGlobalSection
+EndGlobal
